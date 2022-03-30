@@ -19,8 +19,8 @@ s script uses a combination of two different satellites -- S2L2A and S3SLTR -- t
 </div>
 
 ## Evaluate and visualize
- - [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=41.9027835&lng=12.496365500000024&zoom=12&evalscripturl=https://raw.githubusercontent.com/sentinel-hub/customScripts/master/example/script.js){:target="_blank"}    
- - [EO Browser](http://apps.sentinel-hub.com/eo-browser/#lat=41.9&lng=12.5&zoom=10&datasource=Sentinel-2%20L1C&time=2017-10-08&preset=CUSTOM&layers=B01,B02,B03&evalscripturl=https://raw.githubusercontent.com/sentinel-hub/customScripts/master/example/script.js){:target="_blank"}   
+ - [Sentinel Playground](https://apps.sentinel-hub.com/sentinel-playground/?source=S2&lat=41.9027835&lng=12.496365500000024&zoom=12&evalscripturl=https://raw.githubusercontent.com/kk6fut/custom-scripts/master/combo_wildfire/script.js){:target="_blank"}    
+ - [EO Browser](http://apps.sentinel-hub.com/eo-browser/#lat=41.9&lng=12.5&zoom=10&datasource=Sentinel-2%20L1C&time=2017-10-08&preset=CUSTOM&layers=B01,B02,B03&evalscripturl=https://raw.githubusercontent.com/kk6fut/custom-scripts/master/combo_wildfire/script.js){:target="_blank"}   
 
 ## General description of the script
 
